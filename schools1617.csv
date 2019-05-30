@@ -1,0 +1,121 @@
+N,level,district,province,schools_16,pupils_2016,schools_17,pupils_17
+1,Nursery,Gisagara,south,32,2358,41,3358
+2,Nursery,Huye,south,101,6067,92,7333
+3,Nursery,Kamonyi,south,75,5389,118,9487
+4,Nursery,Muhanga,south,114,7009,139,9638
+5,Nursery,Nyamagabe,south,78,5975,87,6607
+6,Nursery,Nyanza,south,85,7533,86,7169
+7,Nursery,Nyaruguru,south,46,2951,58,4002
+8,Nursery,Ruhango,south,74,4253,76,4976
+9,Nursery,Karongi,west,87,5437,87,7561
+10,Nursery,Ngororero,west,89,5728,89,7676
+11,Nursery,Nyabihu,west,68,3742,68,4527
+12,Nursery,Nyamasheke,west,121,6941,121,9250
+13,Nursery,Rubavu,west,108,6783,108,8678
+14,Nursery,Rusizi,west,112,8429,112,8969
+15,Nursery,Rutsiro,west,95,4713,95,9137
+16,Nursery,Bugesera,east,76,5573,75,5714
+17,Nursery,Gatsibo,east,123,7513,125,7417
+18,Nursery,Kayonza,east,50,2569,78,4385
+19,Nursery,Kirehe,east,57,4575,59,4630
+20,Nursery,Ngoma,east,82,5378,75,5847
+21,Nursery,Nyagatare,east,144,9686,141,9295
+22,Nursery,Rwamagana,east,102,6259,138,7797
+23,Nursery,Burera,north,103,6410,111,7597
+24,Nursery,Gakenke,north,137,8131,136,8579
+25,Nursery,Gicumbi,north,154,7626,146,8472
+26,Nursery,Musanze,north,122,7761,142,8633
+27,Nursery,Rulindo,north,90,7376,97,7490
+28,Nursery,Gasabo,kigali city,100,11075,113,11850
+29,Nursery,Kicukiro,kigali city,92,8239,94,8541
+30,Nursery,Nyarugenge,kigali city,40,4187,64,5820
+31,Primary,Huye,south,99,69019,98,67906
+32,Primary,Kamonyi,south,93,84078,94,83187
+33,Primary,Muhanga,south,117,71346,120,70761
+34,Primary,Nyamagabe,south,106,88211,108,87539
+35,Primary,Nyanza,south,82,78846,84,77677
+36,Primary,Nyaruguru,south,90,75020,90,73228
+37,Primary,Ruhango,south,75,83015,78,77755
+38,Primary,Karongi,west,128,86426,125,87194
+39,Primary,Ngororero,west,99,87598,99,87025
+40,Primary,Nyabihu,west,90,73702,92,73418
+41,Primary,Nyamasheke,west,139,94775,139,95516
+42,Primary,Rubavu,west,86,98223,87,98259
+43,Primary,Rusizi,west,119,93689,119,95434
+44,Primary,Rutsiro,west,93,85045,92,85515
+45,Primary,Bugesera,east,94,88529,99,92148
+46,Primary,Gatsibo,east,95,112996,91,115899
+47,Primary,Kayonza,east,96,97320,90,89056
+48,Primary,Kirehe,east,63,100041,64,102003
+49,Primary,Ngoma,east,76,80250,77,86006
+50,Primary,Nyagatare,east,149,120817,158,116503
+51,Primary,Rwamagana,east,73,75156,77,7734
+52,Primary,Burera,north,91,90378,91,87967
+53,Primary,Gakenke,north,118,77152,118,75594
+54,Primary,Gicumbi,north,104,98211,104,95608
+55,Primary,Musanze,north,95,90941,96,89932
+56,Primary,Rulindo,north,84,67164,88,65623
+57,Primary,Gasabo,kigali city,110,93240,110,96694
+58,Primary,Kicukiro,kigali city,75,50136,81,51953
+59,Primary,Nyarugenge,kigali city,42,52808,44,53997
+60,Secondary School,Gisagara,south,39,13953,39,14958
+61,Secondary School,Huye,south,51,16966,50,17643
+62,Secondary School,Kamonyi,south,55,18490,56,20484
+63,Secondary School,Muhanga,south,61,22227,60,24228
+64,Secondary School,Nyamagabe,south,51,18507,53,20057
+65,Secondary School,Nyanza,south,48,18284,48,19835
+66,Secondary School,Nyaruguru,south,46,16152,46,17312
+67,Secondary School,Ruhango,south,54,21292,52,21769
+68,Secondary School,Karongi,west,60,20771,59,22392
+69,Secondary School,Ngororero,west,49,13579,49,15160
+70,Secondary School,Nyabihu,west,45,16964,44,17248
+71,Secondary School,Nyamasheke,west,58,22216,57,25001
+72,Secondary School,Rubavu,west,54,22169,54,23043
+73,Secondary School,Rusizi,west,62,22623,62,24191
+74,Secondary School,Rutsiro,west,48,15808,48,17756
+75,Secondary School,Bugesera,east,43,15593,43,16326
+76,Secondary School,Gatsibo,east,55,21152,59,23634
+77,Secondary School,Kayonza,east,46,17308,47,17814
+78,Secondary School,Kirehe,east,52,15094,51,17134
+79,Secondary School,Ngoma,east,55,15949,55,16368
+80,Secondary School,Nyagatare,east,54,22432,53,23109
+81,Secondary School,Rwamagana,east,55,17369,56,19164
+82,Secondary School,Burera,north,44,16731,44,17893
+83,Secondary School,Gakenke,north,57,15697,56,16439
+84,Secondary School,Gicumbi,north,77,22694,76,24409
+85,Secondary School,Musanze,north,54,22811,54,24829
+86,Secondary School,Rulindo,north,67,17627,66,18444
+87,Secondary School,Gasabo,kigali city,60,19536,54,20391
+88,Secondary School,Kicukiro,kigali city,41,19040,42,20046
+89,Secondary School,Nyarugenge,kigali city,34,14705,34,15424
+90,TVET level 1&2,Gisagara,south,5,61,4,43
+91,TVET level 1&2,Huye,south,9,146,9,73
+92,TVET level 1&2,Kamonyi,south,4,41,6,52
+93,TVET level 1&2,Muhanga,south,7,125,9,82
+94,TVET level 1&2,Nyamagabe,south,7,70,8,74
+95,TVET level 1&2,Nyanza,south,6,75,6,86
+96,TVET level 1&2,Nyaruguru,south,2,42,2,23
+97,TVET level 1&2,Ruhango,south,13,112,10,187
+98,TVET level 1&2,Karongi,west,7,70,5,52
+99,TVET level 1&2,Ngororero,west,6,76,5,51
+100,TVET level 1&2,Nyabihu,west,6,42,5,39
+101,TVET level 1&2,Nyamasheke,west,5,59,6,55
+102,TVET level 1&2,Rubavu,west,10,73,8,54
+103,TVET level 1&2,Rusizi,west,7,58,6,54
+104,TVET level 1&2,Rutsiro,west,2,37,2,45
+105,TVET level 1&2,Bugesera,east,5,60,8,128
+106,TVET level 1&2,Gatsibo,east,5,67,5,45
+107,TVET level 1&2,Kayonza,east,3,45,7,90
+108,TVET level 1&2,Kirehe,east,2,26,3,36
+109,TVET level 1&2,Ngoma,east,7,70,7,52
+110,TVET level 1&2,Nyagatare,east,2,17,1,8
+111,TVET level 1&2,Rwamagana,east,9,86,9,62
+112,TVET level 1&2,Burera,north,1,29,1,13
+113,TVET level 1&2,Gakenke,north,4,41,5,28
+114,TVET level 1&2,Gicumbi,north,5,51,7,50
+115,TVET level 1&2,Musanze,north,8,66,9,79
+116,TVET level 1&2,Rulindo,north,5,30,6,57
+117,TVET level 1&2,Gasabo,kigali city,6,146,11,126
+118,TVET level 1&2,Kicukiro,kigali city,17,158,16,192
+119,TVET level 1&2,Nyarugenge,kigali city,4,41,7,90
+Total,,,,7292,3205557,7544,3202093
