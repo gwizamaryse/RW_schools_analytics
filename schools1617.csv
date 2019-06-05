@@ -55,9 +55,9 @@ N,level,district,province,schools_16,pupils_2016,schools_17,pupils_17
 54,Primary,Gicumbi,north,104,98211,104,95608
 55,Primary,Musanze,north,95,90941,96,89932
 56,Primary,Rulindo,north,84,67164,88,65623
-57,Primary,Gasabo,kigali city,110,93240,110,96694
-58,Primary,Kicukiro,kigali city,75,50136,81,51953
-59,Primary,Nyarugenge,kigali city,42,52808,44,53997
+57,Primary,Gasabo,kigali,110,93240,110,96694
+58,Primary,Kicukiro,kigali,75,50136,81,51953
+59,Primary,Nyarugenge,kigali,42,52808,44,53997
 60,Secondary School,Gisagara,south,39,13953,39,14958
 61,Secondary School,Huye,south,51,16966,50,17643
 62,Secondary School,Kamonyi,south,55,18490,56,20484
@@ -85,9 +85,9 @@ N,level,district,province,schools_16,pupils_2016,schools_17,pupils_17
 84,Secondary School,Gicumbi,north,77,22694,76,24409
 85,Secondary School,Musanze,north,54,22811,54,24829
 86,Secondary School,Rulindo,north,67,17627,66,18444
-87,Secondary School,Gasabo,kigali city,60,19536,54,20391
-88,Secondary School,Kicukiro,kigali city,41,19040,42,20046
-89,Secondary School,Nyarugenge,kigali city,34,14705,34,15424
+87,Secondary School,Gasabo,kigali,60,19536,54,20391
+88,Secondary School,Kicukiro,kigali,41,19040,42,20046
+89,Secondary School,Nyarugenge,kigali,34,14705,34,15424
 90,TVET level 1&2,Gisagara,south,5,61,4,43
 91,TVET level 1&2,Huye,south,9,146,9,73
 92,TVET level 1&2,Kamonyi,south,4,41,6,52
@@ -115,7 +115,7 @@ N,level,district,province,schools_16,pupils_2016,schools_17,pupils_17
 114,TVET level 1&2,Gicumbi,north,5,51,7,50
 115,TVET level 1&2,Musanze,north,8,66,9,79
 116,TVET level 1&2,Rulindo,north,5,30,6,57
-117,TVET level 1&2,Gasabo,kigali city,6,146,11,126
-118,TVET level 1&2,Kicukiro,kigali city,17,158,16,192
-119,TVET level 1&2,Nyarugenge,kigali city,4,41,7,90
+117,TVET level 1&2,Gasabo,kigali,6,146,11,126
+118,TVET level 1&2,Kicukiro,kigali,17,158,16,192
+119,TVET level 1&2,Nyarugenge,kigali,4,41,7,90
 Total,,,,7292,3205557,7544,3202093
